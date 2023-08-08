@@ -1,6 +1,7 @@
 ![Uber Signature](ubersignature.png)
 
 Swift version now available!
+（I think the Object-c version works slightly better for the Swift version。）
 
 Mimicking pen-on-paper signatures with a touch screen presents a difficult set of challenges.
 
